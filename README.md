@@ -38,7 +38,7 @@ Each problem includes:
       └── 001_two_sum.ts
 
 
-🗂️ Topics Covered
+## 🗂️ Topics Covered
     * Arrays & Hashing
 
     * Two Pointers
@@ -62,7 +62,7 @@ Each problem includes:
 More to come.
 
 
-📌 Notes
+## 📌 Notes
     * Most problems are from the NeetCode 150 list.
 
     * Solutions are clean, readable, and use standard practices per language.
@@ -70,7 +70,7 @@ More to come.
     * Code is written for humans first, machines second.
 
 
-🌍 Let's Connect
+## 🌍 Let's Connect
 I’m building this in public.
 Follow along, fork, use, or improve it.
 
