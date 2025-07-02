@@ -27,7 +27,6 @@ Each problem includes:
 - A Python solution
 - A TypeScript solution (sometimes JS fallback)
 
-```text
 📁 problems/
   └── 001-two-sum.md
 
@@ -74,14 +73,14 @@ More to come.
 I’m building this in public.
 Follow along, fork, use, or improve it.
 
-    🌐 Portfolio: Work in progress
 
-    🐦 X: @AyKub__
+    🌐 Portfolio: Coming soon
 
-    💼 LinkedIn: https://www.linkedin.com/in/a-ustundag/
+    🐦 X: [@AyKub__](https://x.com/AyKub__)
+
+    💼 LinkedIn: [https://www.linkedin.com/in/a-ustundag/](https://www.linkedin.com/in/a-ustundag/)
 
 
-
-“You don’t truly understand a problem until you can solve it two different ways.”
+> “You don’t truly understand a problem until you can solve it two different ways.”
 
 Happy coding.
