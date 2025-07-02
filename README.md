@@ -27,6 +27,7 @@ Each problem includes:
 - A Python solution
 - A TypeScript solution (sometimes JS fallback)
 
+```text
 📁 problems/
   └── 001-two-sum.md
 
@@ -35,7 +36,8 @@ Each problem includes:
   │   └── 001_two_sum.py
   └── typescript/
       └── 001_two_sum.ts
-
+```
+---
 
 ## 🗂️ Topics Covered
     * Arrays & Hashing
@@ -60,6 +62,7 @@ Each problem includes:
 
 More to come.
 
+---
 
 ## 📌 Notes
     * Most problems are from the NeetCode 150 list.
@@ -68,17 +71,17 @@ More to come.
 
     * Code is written for humans first, machines second.
 
+---
 
 ## 🌍 Let's Connect
 I’m building this in public.
 Follow along, fork, use, or improve it.
 
+    🌐 Portfolio: Coming soon  
 
-    🌐 Portfolio: Coming soon
-
-    🐦 X: [@AyKub__](https://x.com/AyKub__)
-
-    💼 LinkedIn: [https://www.linkedin.com/in/a-ustundag/](https://www.linkedin.com/in/a-ustundag/)
+    🐦 X: [@AyKub__](https://x.com/AyKub__)  
+    
+    💼 LinkedIn: [A. Üstündağ](https://www.linkedin.com/in/a-ustundag/)
 
 
 > “You don’t truly understand a problem until you can solve it two different ways.”
