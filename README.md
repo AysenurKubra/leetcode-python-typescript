@@ -29,59 +29,62 @@ Each problem includes:
 
 ```text
 📁 problems/
-  └── 001-two-sum.md
+  └── 001-contains-duplicate.md
 
 📁 solutions/
   ├── python/
-  │   └── 001_two_sum.py
+  │   └── 001_contains_duplicate.py
   └── typescript/
-      └── 001_two_sum.ts
+      └── 001_contains_duplicate.ts
 ```
 ---
 
 ## 🗂️ Topics Covered
-    * Arrays & Hashing
 
-    * Two Pointers
+- Arrays & Hashing
 
-    * Stack & Queue
+- Two Pointers
 
-    * Binary Search
+- Stack & Queue
 
-    * Trees & Graphs
+- Binary Search
 
-    * Recursion & Backtracking
+- Trees & Graphs
 
-    * Dynamic Programming
+- Recursion & Backtracking
 
-    * Sliding Window
+- Dynamic Programming
 
-    * Greedy
+- Sliding Window
 
-    * Math
+- Greedy
+
+- Math
 
 More to come.
 
 ---
 
 ## 📌 Notes
-    * Most problems are from the NeetCode 150 list.
 
-    * Solutions are clean, readable, and use standard practices per language.
+- Most problems are from the [NeetCode 150 list](https://neetcode.io/practice).
 
-    * Code is written for humans first, machines second.
+- Solutions are clean, readable, and use standard practices per language.
+
+- Code is written for humans first, machines second.
 
 ---
 
 ## 🌍 Let's Connect
+
 I’m building this in public.
 Follow along, fork, use, or improve it.
 
-    🌐 Portfolio: Coming soon  
+- 🌐 Portfolio: Coming soon  
 
-    🐦 X: [@AyKub__](https://x.com/AyKub__)  
-    
-    💼 LinkedIn: [A. Üstündağ](https://www.linkedin.com/in/a-ustundag/)
+- 🐦 X: [@AyKub__](https://x.com/AyKub__)  
+
+- 💼 LinkedIn: [A. Üstündağ](https://www.linkedin.com/in/a-ustundag/)
 
 
 > “You don’t truly understand a problem until you can solve it two different ways.”
