@@ -84,7 +84,7 @@ Follow along, fork, use, or improve it.
 
 - 🐦 X: [@AyKub__](https://x.com/AyKub__)  
 
-- 💼 LinkedIn: [A. Üstündağ](https://www.linkedin.com/in/a-ustundag/)
+- 💼 LinkedIn: [A. Kubra Ustundag](https://www.linkedin.com/in/a-ustundag/)
 
 
 > “You don’t truly understand a problem until you can solve it two different ways.”
