@@ -1,6 +1,6 @@
 from typing import List
 
-class Solution:
+class Solution001:
 
     def hasDuplicate(self, nums: List[int]) -> bool:
         seen = set()
@@ -12,6 +12,6 @@ class Solution:
 
 
 if __name__ == "__main__":
-    solution = Solution()
+    solution = Solution001()
     print(solution.hasDuplicate([1, 2, 3, 3]))  # Expected output: True
     print(solution.hasDuplicate([1, 2, 3, 4]))  # Expected output: False
